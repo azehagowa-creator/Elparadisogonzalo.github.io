@@ -2871,7 +2871,8 @@ func (g *Generator) generateMessage(message *Descriptor) {
 			// when we've computed any disambiguation.
 
 			dname := "is" + goTypeName + "_" + fname
-			oneOftag := `protobuf_oneof:"` + odp.GetName() + `"`
+			oneofNameEscaped := strconv.Quote(odp.GetName())
+			oneOftag := `protobuf_oneof:` + oneofNameEscaped
 			of := oneofField{
 				fieldCommon: fieldCommon{
 					goName:     fname,
