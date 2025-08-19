@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=
+
+version: v0.1
+providers:
+  - name: Custom
+    models:
+      - name: elp-bot
+        chat_completion_url: https://github.com/koagonzalo11/elparadisogonzalo-monorepo.git
+        headers:
+          Authorization: '{"i":"e319b14a95522d845d246df513acf787","c":"32d95b829c86c38975ecc16fda9f8cb73be73f3b0fa0ff1b1b2f67b18ff7132eebc75374835d695ab2fd1dd29e1516337941fa602c0ec5f7adf2794fb1e550d86b0ea71a48f8d97e7a3b9d3d58880cadf0dce36641a4a921c386fe27e4e7cb34406b82d191e41bf6934cefe602ce896cbc7bae5a26892e80828a3db33b761c2dfe2f1bdb12048ebf2628326a28a45b7020363e1729bc5b0eec6d30a471e8cb05ea14d59912e09cc8b6a916be774d","t":"c13d8068ab59b97d1ccabaa88d1b9cd4","author":"AI
+            Toolkit"}'
+        api_model_name: elp-bot
+      - name: github_pages
+        chat_completion_url: https://github.com/Elparadisogonzalo/Elparadisogonzalo.github.io.git
+        headers:
+          Authorization: '{"i":"67d784c7d209b65a2f3c0e2d6ffd6226","c":"eedcb3f8ab11925c4a832b382f000597b5b239449d50da67023b42f4d454626e49aada4eeb16e9edada0217a4def370e56af71ec04ad51be1f3a4bf108e4b05dd099c444aac80c70080f2216daed0bd21efb44a653b82672057c6dde6bc768ce2bca650f","t":"fe35372dd370298f7e51e53cc5d119ed","author":"AI
+            Toolkit"}'
+        api_model_name: github_pages
+  - name: GitHub
+    models:
+      - name: gpt-5
