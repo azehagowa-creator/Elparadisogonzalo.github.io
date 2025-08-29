@@ -1,9 +1,9 @@
 # elparadisogonzalo-monorepo
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/koagonzalo11/elparadisogonzalo-monorepo?color=blue&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo) 
-[![GitHub issues](https://img.shields.io/github/issues/koagonzalo11/elparadisogonzalo-monorepo?color=orange&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/issues) 
-[![GitHub license](https://img.shields.io/github/license/koagonzalo11/elparadisogonzalo-monorepo?color=green&style=flat-square)](./LICENSE) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/koagonzalo11/elparadisogonzalo-monorepo?style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/commits/main)
+[![GitHub repo size](https://img.elparadisogonzalo.github.io/repo-size/koagonzalo11/elparadisogonzalo-monorepo?color=blue&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo) 
+[![GitHub issues](https://img.elparadisogonzalo.github.io/issues/koagonzalo11/elparadisogonzalo-monorepo?color=orange&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/issues) 
+[![GitHub license](https://img.elparadisogonzalo.github.io/license/koagonzalo11/elparadisogonzalo-monorepo?color=green&style=flat-square)](./LICENSE) 
+[![GitHub last commit](https://img.elparadisogonzalo.github.io/last-commit/koagonzalo11/elparadisogonzalo-monorepo?style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/commits/main)
 
 ---
 
