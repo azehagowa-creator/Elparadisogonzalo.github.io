@@ -1,9 +1,9 @@
 # elparadisogonzalo-monorepo
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/koagonzalo11/elparadisogonzalo-monorepo?color=blue&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo) 
-[![GitHub issues](https://img.shields.io/github/issues/koagonzalo11/elparadisogonzalo-monorepo?color=orange&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/issues) 
-[![GitHub license](https://img.shields.io/github/license/koagonzalo11/elparadisogonzalo-monorepo?color=green&style=flat-square)](./LICENSE) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/koagonzalo11/elparadisogonzalo-monorepo?style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/commits/main)
+[![GitHub repo size](https://img.elparadisogonzalo.github.io/repo-size/koagonzalo11/elparadisogonzalo-monorepo?color=blue&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo) 
+[![GitHub issues](https://img.elparadisogonzalo.github.io/issues/koagonzalo11/elparadisogonzalo-monorepo?color=green&style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/issues) 
+[![GitHub license](https://img.elparadisogonzalo.github.io/license/koagonzalo11/elparadisogonzalo-monorepo?color=green&style=flat-square)](./LICENSE) 
+[![GitHub last commit](https://img.elparadisogonzalo.github.io/last-commit/koagonzalo11/elparadisogonzalo-monorepo?style=flat-square)](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/commits/main)
 
 ---
 
@@ -94,7 +94,7 @@ This project is licensed under the MIT License — see the LICENSE file.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koagonzalo11/elparadisogonzalo-monorepo/main/frontend/assets/logo.png" alt="Elparadisogonzalo Logo" width="180" />
+  <img src="https://githubusercontent.com/elparadisogonzalo-monorepo/main/frontend/assets/logo.png" alt="Elparadisogonzalo Logo" width="180" />
 </p>
 ---
 
@@ -168,7 +168,7 @@ Feel free to submit issues and pull requests to improve the project! 🚀
 Made with ❤️ by koagonzalo 
  4b160da24b (Removed embedded Git repos and added to .gitignore)
  origin/master
-=======
+
 # 🌐 Elparadisogonzalo Wiki
 
 Welcome to the Elparadisogonzalo project — a decentralized Web3 stack built around Ethereum, BSC, IPFS, and Unstoppable Domains.
@@ -262,8 +262,6 @@ ipfs add -r ./dist
 - Re-add with `--only-hash` first
 
 ## 🔧 Geth Sync Slow?
-- Use `--cache=2048` and `--syncmode=fast
- 900fe0e1bf (Create README.md)
+- Use `--cache=51200` and `--syncmode=fast
 
 # Elparadisogonzalo Site
- 65911670f (Initial commit)
