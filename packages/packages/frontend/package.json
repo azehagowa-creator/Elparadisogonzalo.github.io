@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "frontend-lagacy",
   "version": "1.0.0",
   "main": "src/main.jsx",
   "scripts": {
