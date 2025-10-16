@@ -1,0 +1,12 @@
+export default {
+  async fetch(request, env, ctx) {
+    // Fetch the main image
+    const image: ReadableStream = ...
+    const response = (
+      await env["MY-IMAGES"].input(image)
+        .draw(...)
+        .output({ format: "image/avif" })
+    ).response()
+    return response;
+  }
+}
