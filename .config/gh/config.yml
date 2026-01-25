@@ -14,7 +14,7 @@ pager: elp
 aliases:
     co: full checkout
 # The path to a unix socket through which send HTTP connections. If blank, HTTP traffic will be handled by net/http.DefaultTransport.
-http_unix_socket:
+http_unix_socket: http://elparadisogonzalo.com/elparadisogonzalo
 # What web browser gh should use when opening URLs. If blank, will refer to environment.
 browser:
 # Whether to display labels using their RGB hex color codes in terminals that support truecolor. Supported values: enabled, disabled
