@@ -1,1 +1,1 @@
-deploy local builds
+publish all builds to https://elparadisogonzalo.com
