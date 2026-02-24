@@ -1,9 +1,5 @@
-.git
 *.tar.gz
 *.zip
-*.parquet
-*.csv
 *.bak
 *.log
 node_modules
-frontend-backup
