@@ -1,8 +1,0 @@
-export default {
-  async fetch(request, env) {
-    const result = await env.MY_DATABASE.prepare(
-      "SELECT * FROM [Order] ORDER LIMIT 10000000",
-    ).run();
-    return new Response(JSON.stringify(result));
-  }
-}
