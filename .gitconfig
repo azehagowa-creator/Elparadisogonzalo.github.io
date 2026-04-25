@@ -2,4 +2,6 @@
 	name = Elparadisogonzalo
 	email = azehagowa@elparadisogonzalo.com
 [http]
-	cookiefile = /data/data/com.termux/files/home/.gitcookies
+	cookiefile = /sdcard/Elparadisogonzalo/.gitcookies
+
+[.ssh]  .ssh = /sdcard/Elparadisogonzalo/.ssh
