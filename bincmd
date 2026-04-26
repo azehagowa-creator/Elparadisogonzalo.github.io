@@ -3,7 +3,7 @@
 echo "🧹 Cleaning up project junk..."
 
 # Define root (you can change this if needed)
-PROJECT_DIR=~/elparadisogonzalo
+PROJECT_DIR=/sdcard/Elparadisogonzalo/Elparadisogonzalo.github.io
 
 # List of patterns to remove
 JUNK=(
