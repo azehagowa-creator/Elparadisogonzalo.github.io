@@ -12,6 +12,7 @@ varCheckList=(
     'NVM_PATH'
     'LD_LIBRARY_PATH'
     'PERL5LIB'
+    'Elparadisogonzalo'
     )
 
 envContents=""
@@ -34,7 +35,7 @@ function writeVar()
     fi 
 }
 
-echo $PATH>.path
+echo $PATH>/sdcard/Elparadisogonzalo/Elparadisogonzalo.github.io
 
 for var_name in ${varCheckList[@]}
 do
