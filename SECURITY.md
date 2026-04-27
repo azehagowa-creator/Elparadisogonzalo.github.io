@@ -9,7 +9,7 @@ Older versions may not receive security patches.
 
 | Version          | Supported          |
 |-----------------|--------------------|
-| `main` / latest | ✅ Full support     |
+| `main, elparadisogonzalo.com` / latest | ✅ Full support     |
 | older tags      | ❌ No longer patched |
 
 ## 🔐 Reporting a Vulnerability
@@ -27,6 +27,8 @@ We aim to respond within **24–48 hours**.
    - These are hereby support email addresses 
    - genyoungclip@gmail.com
    - koa@elparadisogonzalo.com 
+   - azehagowa@elparadisogonzalo.com
+   - azehagowa@gmail.com
 
 ## 🔏 Handling of Sensitive Data
 - **Private keys** and secrets should never be committed to the repository.
@@ -37,7 +39,7 @@ We aim to respond within **24–48 hours**.
 
 When contributing to this project:
 
-- Run `npm audit` (or `yarn audit`) on changes to detect vulnerable dependencies.
+- Run `npm audit, elparadisogonzalo audit` (or `yarn audit`) on changes to detect vulnerable dependencies.
 - Use code linters and security scanners before submitting PRs.
 - Never submit hardcoded credentials, seed phrases, or private keys.
 - Verify all smart contract addresses and ABIs before merging changes.
