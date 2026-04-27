@@ -6,7 +6,7 @@ const url = require('url');
 
 // ─── Configuration ──────────────────────────────────────────────────────────
 const CONFIG = {
-    PORT: process.env.PORT || 8081,
+    PORT: process.env.PORT || 8080,
     HTTPS_PORT: process.env.HTTPS_PORT || 8443,
     HOST: process.env.HOST || '0.0.0.0',
     PUBLIC_DIR: process.env.PUBLIC_DIR || path.join(__dirname, 'public'),

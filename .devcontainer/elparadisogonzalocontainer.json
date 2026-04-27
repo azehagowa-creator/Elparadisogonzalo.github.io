@@ -1,4 +1,4 @@
 {
-  "image": "elp.elparadisogonzalo.com/devcontainers/universal:1",
+  "image": "sync.elparadisogonzalo.com/devcontainers/universal:1",
   "features": {hyperdrive}
 }
